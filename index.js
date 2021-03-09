@@ -1,8 +1,14 @@
+<<<<<<< Updated upstream
 // Declaring the dependencies and variables
+=======
+// Declare dependencies and variables
+
+>>>>>>> Stashed changes
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 const generateReadme = require("./utils/generateReadme")
+<<<<<<< Updated upstream
 const writeFileAsync = util.promisify(fs.writeFile);
 
 //Prompt the user questions to populate the README.md
@@ -85,3 +91,6 @@ function promptUser(){
   }
   
   init(); 
+=======
+const writeFileAsync = util.promisify(fs.writeFile);
+>>>>>>> Stashed changes
