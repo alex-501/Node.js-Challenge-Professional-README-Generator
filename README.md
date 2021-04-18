@@ -1,7 +1,9 @@
-# K
-![](https://img.shields.io/badge/license-n/a-blue?style=flat-square)
+https://user-images.githubusercontent.com/68447140/115163948-f012ca80-a060-11eb-96ce-9ed71b4df12f.mp4
+
+# generator
+![](https://img.shields.io/badge/license-N/A-blue?style=flat-square)
 ## Description
-J
+readme generator using node and inquirer packages
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,19 +13,20 @@ J
 * [Questions](#questions)
 
 ## Installation
-1. M
+1. install npm
+2. run index.js in terminal
 
 ## Usage
 undefined
 
 ## Contribution
-NM
+alexis r
 
 ## Tests
-undefined
+made with Inquirer npm, you have to download and un the package, then go through the questions/prompts and at the end, a readme.md is generated
 
 ## License
-This project is convered under the n/a.
+This project is convered under the N/A.
 
 ## Questions
-For questions about this project, please see my GitHub at [MN](https://github.com/MN), or reach out by email at N.
+For questions about this project, please see my GitHub at [alex-501](https://github.com/alex-501), or reach out by email at ...
