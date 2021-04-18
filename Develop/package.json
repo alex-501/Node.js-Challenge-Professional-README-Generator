@@ -1,14 +1,24 @@
 {
-    "name": "static-site",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "inquirer": "^6.3.1"
-    }
-  }
+  "name": "generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "description": "readme md maker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-501/Node.js-Challenge-Professional-README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-501/Node.js-Challenge-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/alex-501/Node.js-Challenge-Professional-README-Generator#readme"
+}
